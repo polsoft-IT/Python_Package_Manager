@@ -1,0 +1,11 @@
+# Python build artifacts
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# OS files
+Thumbs.db
+.DS_Store
