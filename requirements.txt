@@ -1,2 +1,2 @@
-wxPython
-pyinstaller>=6.21
+wxPython>=4.2.0
+pyinstaller>=6.0.0
