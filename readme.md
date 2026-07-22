@@ -2,6 +2,12 @@
 
 ![Screenshot](screenshot.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
+</p>
+
 A modern, bilingual (EN/PL) Python package manager with an optional graphical user interface (wxPython) and a robust CLI fallback.
 
 <!-- TOC -->

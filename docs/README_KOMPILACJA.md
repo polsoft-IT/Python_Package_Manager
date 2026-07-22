@@ -1,5 +1,11 @@
 # Instrukcja kompilacji PPM na Windows 11
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
+</p>
+
 ## Wymagania wstępne
 1. **Python 3.8+** zainstalowany i dodany do PATH
 2. Dostęp do internetu (do instalacji bibliotek)

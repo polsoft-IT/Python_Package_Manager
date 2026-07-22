@@ -2,6 +2,12 @@
 
 ![Screenshot](screenshot.png)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
+</p>
+
 Moderny, wielojęzyczny (PL/EN) menedżer pakietów Python z graficznym interfejsem użytkownika opartym na bibliotece **wxPython**. Narzędzie pozwala w łatwy i intuicyjny sposób przeglądać najpopularniejsze biblioteki podzielone na ponad 20 kategorii tematycznych, sprawdzać stan ich instalacji w bieżącym środowisku oraz instalować je jednym kliknięciem za pomocą bezpiecznych procesów wielowątkowych.
 
 ---
